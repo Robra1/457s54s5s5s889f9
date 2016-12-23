@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Menu kann per swipe geöffnet werden",
+    "icon": "ion-code-working",
+    "class": "balanced"
+  },
+  {
+    "text": "Verlinkungen auf der Info-Seite gefixt",
+    "icon": "ion-bug",
+    "link": "https://github.com/rho2/schunits",
+    "isURL": true
+  },
+  {
+    "text": "Senden von Log-Dateien funktioniert wieder",
+    "icon": "ion-bug",
+    "link": "sonstiges"
+  },
+  {
+    "text": "Doppelte Zurück-Animationen entfernt",
+    "icon": "ion-bug"
+  },
+  {
+    "text": "Zurücktaste schliesst die standartmässig die App",
+    "icon": "ion-bug"
+  }
+]
