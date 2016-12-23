@@ -7,8 +7,7 @@
   {
     "text": "Verlinkungen auf der Info-Seite gefixt",
     "icon": "ion-bug",
-    "link": "https://github.com/rho2/schunits",
-    "isURL": true
+    "link": "info"
   },
   {
     "text": "Senden von Log-Dateien funktioniert wieder",
